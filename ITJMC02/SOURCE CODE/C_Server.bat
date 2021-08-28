@@ -1,0 +1,3 @@
+javac CentralizedServer.java
+java CentralizedServer
+pause
